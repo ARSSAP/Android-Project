@@ -1,25 +1,125 @@
 1.Employee
+    1.Id
+    2.Name
+    3.Manager Name
+    4.Team
+    5.Joining Date
+    6.Email
+    7.Projects Completed
+    8.Projects Assigned
+    9.Gender
+    10.Age
+    11.Profile
 
 2.Manager
+    1.Id
+    2.Name
+    3.Team
+    4.Joining Date
+    5.Email
+    6.Projects Supervised
+    7.Projects Inprogress
+    8.Gender
+    9.Age
+    10.Profile
 
 3.Admin
+    1.Id
+    2.Name
+    3.Joining Date
+    4.Email
+    5.Gender
+    6.Age
+    7.Profile
 
 4.Leave
-
-5.Summary
+    1.Id
+    2.Requested By
+    3.Approved/Rejected By
+    4.Team
+    5.Date Applied
+    6.Date Approved/Rejected
+    7.Reason
+    8.Duration
+    9.Total Leaves Taken
+    10.Project Situation
+    11.Description
 
 6.Notes
+    1.Id
+    2.Created By
+    3.Created on
+    4.Team
+    5.Date
+    6.Description
 
 7.Team
+    1.Id
+    2.Members
+    3.Manager
+    4.Created On
+    5.Projects
+    6.Project Situation
+    7.Deadline
+    8.Members Active
+    9.Members on Leave
 
 8.Account
+    1.Id
+    2.Name
+    3.Type
+    4.Password
+    5.Email
+    6.Gender
+    7.Age
+    8.Profile
 
 9.Approved
-
+    1.Id
+    2.Requested By
+    3.Approved/Rejected By
+    4.Team
+    5.Date Applied
+    6.Date Approved/Rejected
+    7.Reason
+    8.Duration
+    9.Total Leaves Taken
+    10.Project Situation
+    11.Description
+    
+    
 10.Rejected
+    1.Id
+    2.Requested By
+    3.Approved/Rejected By
+    4.Team
+    5.Date Applied
+    6.Date Approved/Rejected
+    7.Reason
+    8.Duration
+    9.Total Leaves Taken
+    10.Project Situation
+    11.Reason of Rejection
 
 11.Work-Request
+    1.Id
+    2.Requested By
+    3.Accepted By
+    4.Team
+    5.Date Applied
+    6.Date Accepted
+    7.Deadline
+    8.Project Situation
+    9.Description
 
-12.calander
+12.Calander
+    1.Date
+    2.Description
+    3.Team
+    4.Note
+    5.Leave
+    6.Holidays
+    7.Deadline
+    8.Project
 
 13....
