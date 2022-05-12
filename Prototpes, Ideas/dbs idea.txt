@@ -10,6 +10,8 @@
     9.Gender
     10.Age
     11.Profile
+    12.Additional Work
+    13.Work Requested
 
 2.Manager
     1.Id
@@ -122,4 +124,13 @@
     7.Deadline
     8.Project
 
-13....
+13.Work-Accepted
+    1.Id
+    2.Requested By
+    3.Accepted By
+    4.Team
+    5.Date Applied
+    6.Date Accepted
+    7.Deadline
+    8.Project Situation
+    9.Description
