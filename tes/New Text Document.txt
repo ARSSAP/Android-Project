@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Grid Uid="Splash Screen" Width="480" Height="853" Background="#ffffffff" ClipToBounds="True">
+   <Border Width="492" Height="871" BorderBrush="#ff707070" Margin="-7,0,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" />
+   <Border Width="257" Height="225" BorderBrush="#ff707070" Margin="-7,130,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" />
+   <TextBlock Text="Ⓚⓤⓢⓔ" TextAlignment="left" FontFamily="SimSun" FontSize="55" Width="202" Height="60" TextWrapping="Wrap" Foreground="#ff000000" Margin="191,206,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" />
+   <TextBlock Text="Welcome to!!" TextAlignment="left" FontFamily="Calibri" FontSize="55" Foreground="#ffebebeb" Margin="28,108,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" />
+   <Border Width="194" Height="43" Background="#de1182c4" BorderBrush="#ff00fff7" Margin="46,334,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" />
+   <TextBlock Text="Log-In" TextAlignment="left" FontFamily="Calibri" FontSize="35" Foreground="#ffebebeb" Margin="99,334,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" />
+   <TextBlock Text="Are you new here?" TextAlignment="left" FontFamily="Calibri" FontSize="22" Foreground="#ffebebeb" Margin="99,803,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" />
+   <TextBlock Text="Sign-Up" TextAlignment="left" FontFamily="Calibri" FontSize="24" Foreground="#fff4a312" Margin="277,803,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" />
+</Grid>
